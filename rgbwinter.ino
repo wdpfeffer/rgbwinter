@@ -1,7 +1,5 @@
 /*
-
 Use old bootloader
- 
  
 */
 
@@ -25,8 +23,6 @@ void setup() {
 }
 
 void loop() {
-  // Reads the current position of the potentiometer and converts 
-  // to a value between 0 and 255 to control the according RGB pin with PWM
   // RGB LED COMMON ANODE
   
   // write the snowman routine first
